@@ -15,6 +15,12 @@ Generic_LFSR_Scheme/
 │ └── ...
 ├── vhdl/ # VHDL code of proposed generic LFSR memory scrambler
 │ ├── LFSR_Scrambling
+│ │  ├── SDRAM_controller_tb.v
+│ │  ├── SDRAM_module.v
+│ │  ├── hostcont.v
+│ │  ├── inc.vh
+│ │  ├── sdram.v
+│ │  ├── sdramcnt.v
 │ ├── proposed  
 │ │  ├── scrambler.vhd # Updated after acceptance of research paper
 ├── README.md # Project documentation
