@@ -5,6 +5,7 @@ This repository provides a generic and extensible simulation framework for analy
 ## 📁 Repository Structure
 
 Generic_LFSR_Scheme/
+<pre>  
 ├── src/ # Core Python scripts for LFSR simulation
 │ ├── lfsr_cycle_length.py
 ├── tap_points/ # Pre-generated or manually selected tap configurations
@@ -13,6 +14,7 @@ Generic_LFSR_Scheme/
 │ ├── taps_24bit_LFSR.pdf
 │ └── ...
 ├── README.md # Project documentation
+<\pre>  
 
 
 ## 🚀 Getting Started
