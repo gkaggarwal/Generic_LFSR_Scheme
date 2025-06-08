@@ -1,1 +1,23 @@
-This repository contains code to calculate the cycle length of different size LFSR with random TAPs.
+# Generic_LFSR_Scheme
+
+This repository provides a generic and extensible simulation framework for analyzing Linear Feedback Shift Registers (LFSRs). The primary goal is to evaluate the **cycle length** of randomly selected tap configurations, under the constraint that the characteristic polynomial **always includes the `x^n` and `x` terms** (i.e., the most significant and least significant bits are always feedback-connected).
+
+## 📁 Repository Structure
+
+Generic_LFSR_Scheme/
+├── src/ # Core Python scripts for LFSR simulation
+│ ├── lfsr_cycle_length.py
+├── tap_points/ # Pre-generated or manually selected tap configurations
+│ ├── taps_16bit_LFSR.pdf
+│ ├── taps_20bit_LFSR.pdf
+│ ├── taps_24bit_LFSR.pdf
+│ └── ...
+├── README.md # Project documentation
+
+
+## 🚀 Getting Started
+
+### Requirements
+
+- Python 3.6 or higher
+- NumPy
