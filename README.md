@@ -14,7 +14,7 @@ Generic_LFSR_Scheme/
 │ ├── taps_24bit_LFSR.pdf
 │ └── ...
 ├── README.md # Project documentation
-</pre>pre>  
+</pre>  
 
 ## 🚀 Getting Started
 
