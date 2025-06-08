@@ -14,7 +14,9 @@ Generic_LFSR_Scheme/
 │ ├── taps_24bit_LFSR.pdf
 │ └── ...
 ├── vhdl/ # VHDL code of proposed generic LFSR memory scrambler
-│ ├── scrambler.vhd # Updated after acceptance of research paper
+│ ├── LFSR_Scrambling
+│ ├── proposed  
+│ │  ├── scrambler.vhd # Updated after acceptance of research paper
 ├── README.md # Project documentation
 </pre>  
 
