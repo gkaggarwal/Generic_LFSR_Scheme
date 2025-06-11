@@ -1,4 +1,4 @@
-# Generic_LFSR_Scheme
+# Generic LFSR-based Memory Scrambling Scheme
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![RT-Level: VHDL](https://img.shields.io/badge/RT--Level-VHDL-8877cc.svg)
 ![Software-Level: Python](https://img.shields.io/badge/Software--Level-Python-3776AB.svg)
