@@ -24,7 +24,8 @@ Generic_LFSR_Scheme/
 │ │  ├── sdram.v
 │ │  ├── sdramcnt.v
 │ ├── proposed  
-│ │  ├── scrambler.vhd # Updated after acceptance of research paper
+│ │  ├── Generic_LFSR_Scrambler.vhd
+│ │  ├── tb_lfsr_scrambler.vhd
 ├── README.md # Project documentation
 </pre>  
 
