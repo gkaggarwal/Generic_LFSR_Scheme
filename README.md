@@ -57,4 +57,4 @@ If you use this repository or find it helpful, please cite:
 </pre>
 ## 🛠️ License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
