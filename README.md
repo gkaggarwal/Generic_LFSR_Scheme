@@ -36,7 +36,7 @@ Generic_LFSR_Scheme/
 - Python 3.6 or higher
 - NumPy
 
-📖 Citation
+## 📖 Citation
 
 If you use this repository or find it helpful, please cite:
 
