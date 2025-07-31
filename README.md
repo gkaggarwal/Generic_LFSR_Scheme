@@ -36,8 +36,16 @@ Generic_LFSR_Scheme/
 - Python 3.6 or higher
 - NumPy
 
-📚 BibTeX Citation
-If you use this repository or build upon this work, please cite the following paper:
+📖 Citation
+
+If you use this repository or find it helpful, please cite:
+
+    Gaurav Kumar, Kushal Pravin Nanote, Sohan Lal, Yamuna Prasad, and Satyadev Ahlawat
+    Robust LFSR-based Scrambling to Mitigate Stencil Attack on Main Memory
+    ACM Transactions on Embedded Computing Systems, 2025. (To appear)
+    
+## 📚 BibTeX Citation
+
 @article{kumar2025robust,
   author    = {Gaurav Kumar and Kushal Pravin Nanote and Sohan Lal and Yamuna Prasad and Satyadev Ahlawat},
   title     = {Robust LFSR-based Scrambling to Mitigate Stencil Attack on Main Memory},
@@ -46,3 +54,7 @@ If you use this repository or build upon this work, please cite the following pa
   publisher = {ACM},
   note      = {To appear}
 }
+
+## 🛠️ License
+
+This project is licensed under the MIT License.
