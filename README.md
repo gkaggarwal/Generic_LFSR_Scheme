@@ -47,13 +47,19 @@ If you use this repository or find it helpful, please cite:
 ## 📚 BibTeX Citation
 <pre>
 @article{kumar2025robust,
-  author    = {Gaurav Kumar and Kushal Pravin Nanote and Sohan Lal and Yamuna Prasad and Satyadev Ahlawat},
-  title     = {Robust LFSR-based Scrambling to Mitigate Stencil Attack on Main Memory},
-  journal   = {ACM Transactions on Embedded Computing Systems},
-  year      = {2025},
-  publisher = {ACM},
-  note      = {To appear}
-}
+author = {Kumar, Gaurav and Nanote, Kushal Pravin and Lal, Sohan and Prasad, Yamuna and Ahlawat, Satyadev},
+title = {Robust LFSR-based Scrambling to Mitigate Stencil Attack on Main Memory},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1539-9087},
+url = {https://doi.org/10.1145/3758321},
+doi = {10.1145/3758321},
+note = {Just Accepted},
+journal = {ACM Trans. Embed. Comput. Syst.},
+month = aug,
+keywords = {DRAM security, LFSR, Memory scrambling, Memory disclosure attacks, Stencil attack}
+}    
 </pre>
 ## 🛠️ License
 
